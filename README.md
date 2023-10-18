@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arefosco
-- 👀 I’m interested in Innovation, Technology, Project Management, Agile, Scrum, Digital Transformation
-- 🌱 I’m currently learning Java Scrip, Open Source Technology and Python
-- 💞️ I’m looking to collaborate on Agile Projects
-- 📫 How to reach me arefosco@gmail.com
+- 👀 I’m interested in Data Science, Machine Learning, IA, Innovation, Technology, Project Management, Agile, Scrum, Digital Transformation
+- 🌱 I’m currently learning Data Science, Machine Learning and IA
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning and IA Projects
+- 📫 How to reach me [e-mail](arefosco@gmail.com) / Linkedin: [andrerefosco](https://www.linkedin.com/in/andrerefosco/)
 
 <!---
 arefosco/arefosco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
